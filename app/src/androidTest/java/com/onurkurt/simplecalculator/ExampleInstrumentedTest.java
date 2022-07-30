@@ -1,4 +1,4 @@
-package com.onurkurt.simplecalculator;
+package com.onurkurt.simplecalculatorr;
 
 import android.content.Context;
 
