@@ -1,4 +1,4 @@
-package com.onurkurt.simplecalculator;
+package com.onurkurt.simplecalculatorr;
 
 import androidx.appcompat.app.AppCompatActivity;
 
